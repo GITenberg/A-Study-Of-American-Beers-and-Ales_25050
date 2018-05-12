@@ -1,0 +1,35 @@
+_repo: A-Study-Of-American-Beers-and-Ales_25050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tolman, L. M.
+    alias: Tolman, Lucius Moody
+    birthdate: 1875
+    gutenberg_agent_id: '28371'
+    url: http://www.gutenberg.org/2009/agents/28371
+  - agent_name: Riley, James Garfield
+    birthdate: 1881
+    gutenberg_agent_id: '28372'
+    url: http://www.gutenberg.org/2009/agents/28372
+description: Effect of raw materials used upon composition of the finished brew. pp.
+  11.
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcc 'TP'
+- !lcsh 'Ale -- United States'
+- !lcsh 'Brewing industry -- United States'
+- !lcsh 'Beer -- United States'
+title: A Study of American Beers and Ales
+url: http://www.gutenberg.org/ebooks/25050
