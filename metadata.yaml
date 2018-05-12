@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28372
 description: Effect of raw materials used upon composition of the finished brew. pp.
   11.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25050#A-Study-Of-American-Beers-and-Ales
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-04-11'
 gutenberg_type: Text
